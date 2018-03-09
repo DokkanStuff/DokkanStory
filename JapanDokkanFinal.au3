@@ -2,7 +2,7 @@ HotKeySet ("{F1}", "Exitnow")
 
 #cs ----------------------------------------------------------------------------
 
- Dokkan_Battle_Global
+ Dokkan_Battle_Japan
  Author:         DokkanStuff
 
  Script Function:
@@ -369,6 +369,6 @@ Func FailSafe()
 EndFunc
 
 Func Exitnow()
-   msgbox(0, "GlobalDokkan", "Stopping Bots.")
+   msgbox(0, "JapanDokkan", "Stopping Bots.")
    exit
    EndFunc
