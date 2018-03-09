@@ -8,7 +8,7 @@ HotKeySet ("{F1}", "Exitnow")
  Script Function:
 	Completes story mode of dokkan battle, three times at once.
 
-	Not completed, finishing later.
+	Completed.
 
 #ce ----------------------------------------------------------------------------
 
